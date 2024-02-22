@@ -1,7 +1,6 @@
 class Employee 
 {
-public static void main(String[] args)
-{
+public static void main(String[] args){
     long salary=50000;
     double Da;
     Da=(12*salary)/100;
@@ -25,4 +24,4 @@ public static void main(String[] args)
 }
   
   
-    }
+}
